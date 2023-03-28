@@ -1,1 +1,1 @@
-this is text2 content, editing for revert commit.
+this is text2 content
